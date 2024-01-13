@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Spectrum")(type "KiCad")(uri "${KIPRJMOD}/Spectrum.kicad_sym")(options "")(descr ""))
+  (lib (name "Motorola PIA")(type "KiCad")(uri "C:/Users/jimbr/OneDrive/Documents/KiCad/7.0/projects/Dragon32/Motorola PIA.kicad_sym")(options "")(descr ""))
+  (lib (name "vdg")(type "KiCad")(uri "C:/Users/jimbr/OneDrive/Documents/KiCad/7.0/projects/Dragon32/vdg.kicad_sym")(options "")(descr ""))
+)
